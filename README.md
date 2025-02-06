@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Native's FlatList component when dealing with items of varying heights. The `bug.js` file showcases the problem, where the FlatList renders incorrectly due to inconsistent row heights. The `bugSolution.js` file provides a fix using the `estimatedItemSize` prop for improved rendering performance and accuracy.
